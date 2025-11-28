@@ -1,0 +1,5 @@
+{
+  "name": "DisasterGuard AI",
+  "description": "AI-powered disaster response assistant focusing on misinformation verification and safety guidance.",
+  "requestFramePermissions": []
+}
